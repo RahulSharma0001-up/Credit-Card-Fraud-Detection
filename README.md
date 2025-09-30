@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
-Credit Card Fraud Detection Using Machine Learning: A Comparative Study
-Abstract
+Credit Card Fraud Detection Using Machine Learning: A Comparative Study <br>
+Abstract <br> <br>
 Credit card fraud continues to threaten financial institutions and consumers alike, resulting in billions of dollars in losses globally every year. The rise of electronic fraud necessitates the advancement of intelligent and automated detection technologies. This work presents a machine learning-based approach for detecting fraudulent credit card transactions. Various supervised algorithms—Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest, and XGBoost—are studied using a real-world imbalanced dataset. Class balancing, feature scaling, and robust metric evaluation are incorporated. Results indicate that ensemble methods, especially XGBoost and Random Forest, consistently outperform traditional classifiers in terms of precision, recall, F1-score, and AUC-ROC. The findings reinforce the utility of machine learning for real-time, scalable fraud detection systems.
 Keywords: Credit Card Fraud, Machine Learning, Imbalanced Data, SMOTE, Ensemble Learning, XGBoost
 I. Introduction
